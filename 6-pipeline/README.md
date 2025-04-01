@@ -14,6 +14,7 @@
 
 ## Tips
 
+- You can uniquely identify every build using one of these environment variables: `SEMAPHORE_WORKFLOW_ID`, or `SEMAPHORE_GIT_SHA`
 - For this pipeline use the agent `s1-ubuntu`
 - Check pipeline.png in this folder to see an example.
 - The `solution` branch contains a working pipeline
