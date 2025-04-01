@@ -19,4 +19,4 @@ blocks:
             - 'docker push $DOCKER_USERNAME/my-flask-app:$SEMAPHORE_WORKFLOW_ID'
             - 'docker push $DOCKER_USERNAME/my-flask-app:latest'
       secrets:
-        - name: docherhub
+        - name: dockerhub
