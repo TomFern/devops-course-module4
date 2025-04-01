@@ -18,4 +18,3 @@
 - For this pipeline use the agent `s1-ubuntu`
 - Check pipeline.png in this folder to see an example.
 - The `solution` branch contains a working pipeline
-- You need to create
