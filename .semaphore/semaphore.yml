@@ -2,8 +2,8 @@ version: v1.0
 name: Initial Pipeline
 agent:
   machine:
-    type: f1-standard-2
-    os_image: ubuntu2204
+    type: s1-ubuntu
+    os_image: ""
 blocks:
   - name: Docker build
     task:
