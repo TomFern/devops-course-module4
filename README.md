@@ -1,4 +1,4 @@
-# Module 5 - Docker and Docker Compose
+# Module 4 - Docker and Docker Compose
 
 **Goal**: Learn how to use Docker
 
