@@ -120,7 +120,7 @@ CONTAINER ID   IMAGE     COMMAND           CREATED         STATUS               
 f81f4329c105   test      "python app.py"   4 seconds ago   Exited (0) 12 minutes ago                xenodochial_leavitt
 
 # run docker inspect to learn about the container metadata
-# docker inspect f81f4329c105
+$ docker inspect f81f4329c105
 [
     {
         "Id": "a5e587aa0a2f36621ce5dadb2cecb741b692adc8eb8a636512e588071ef4d474",
